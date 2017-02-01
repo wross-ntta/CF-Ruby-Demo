@@ -1,6 +1,6 @@
 require 'sinatra'
 class HelloWorld < Sinatra::Base
 	get '/' do
-		'Hello World!'
+		'Hello World! Automagic for Greg McCoy'
 	end
 end
